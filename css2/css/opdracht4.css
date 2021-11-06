@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana;
+    font-size: 1.1em;
+    background-color: silver;
+    color: darkblue;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1{
+    font-variant: all-small-caps;
+    background-color: red;
+}
+a:hover{
+    background-color: mediumpurple;
+}
+.stippeltjesrand{
+    border-style: dotted;
+    border-color: black;
+    border-width: 1px;
+}
+a{
+    background-image: url('link.jpg');
+    background-repeat: no-repeat;
+    padding-left: 30px; 
+    display: block;
+}
+ul.checklist{
+    list-style-image: url("unchecked.jpg");
+}
+li.checked{
+    list-style-image: url("checked.png");
+}
