@@ -21,7 +21,7 @@ a:hover{
 a{
     background-image: url('link.jpg');
     background-repeat: no-repeat;
-    padding-left: 30px; 
+    padding-left: 30px;
     display: block;
 }
 ul.checklist{
