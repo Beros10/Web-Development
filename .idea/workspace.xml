@@ -28,11 +28,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css5/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bryn Verhaevert\OneDrive - Hogeschool VIVES\Web development\Web-Development\css5\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\brynv\OneDrive - Hogeschool VIVES\Web development\Web-Development\css4\css" />
       <recent name="C:\Users\Bryn Verhaevert\OneDrive - Hogeschool VIVES\Web development\Web-Development" />
@@ -51,6 +54,8 @@
       <workItem from="1635317581073" duration="6603000" />
       <workItem from="1635324880168" duration="652000" />
       <workItem from="1637354506009" duration="868000" />
+      <workItem from="1638042384685" duration="26000" />
+      <workItem from="1638299494369" duration="3897000" />
     </task>
     <servers />
   </component>
