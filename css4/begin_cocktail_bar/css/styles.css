@@ -20,7 +20,7 @@ h1{
 h2{
     font-size: 130%;
 }
-.weekly:hover{
+a:hover{
     background-color: sandybrown;
 }
 .weekly>h1,.weekly>h2{
